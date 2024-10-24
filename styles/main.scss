@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+  background: #ffffff26;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffffff26;
+  border-radius: 1rem;
+}
+
+body {
+  font-family: 'Oxanium';
+  color: #fff;
+  background: #111827;
+}
+
+
