@@ -28,7 +28,7 @@ const MainPage = () => {
       <div className="max-w-lg mx-auto">
         <p className="mt-4 text-center text-white/70 md:text-lg">
           Ahoj, já jsem Alex Pokorný.
-          Jsem FrontEnd vývojář webových stránek a specializuji se na vytváření jednoduchých webových stránek pomocí frameworků. 
+          Jsem FrontEnd vývojář webových stránek, specializuji se na vytváření jednoduchých webových stránek pomocí frameworku NextJS. 
           Můj zájem o webový vývoj začal 16. února 2024, a od listopadu 2023 se také věnuji vývoji Discord robotů.
         </p>
       </div>
