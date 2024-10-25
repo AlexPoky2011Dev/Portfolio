@@ -68,7 +68,7 @@ const GitHub = () => {
                                 <p className="text-[15px] text-white">{project.description}</p>
                             </div>
                             <a href={project.svn_url} target="_blank" rel="noopener noreferrer">
-                                <p className="border border-white/15 rounded-md bg-white/10 backdrop-blur h-8 w-full font-semibold inline-flex items-center justify-center gap-2 mt-2 hover:bg-sky-700 transition duration-300">
+                                <p className="border border-white/15 rounded-md bg-white/10 backdrop-blur h-8 w-full font-semibold inline-flex items-center justify-center gap-2 mt-2 hover:bg-white/70 transition duration-300">
                                     Otevřít
                                 </p>
                             </a>

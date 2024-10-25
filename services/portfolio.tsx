@@ -64,7 +64,7 @@ const Portfolio = () => {
                             <p className="text-[15px]">{project.desc}</p>
 
                             <a href={project.link} target="_blank" rel="noopener noreferrer">
-                                <p className="border border-white/15 rounded-md bg-white/10 backdrop-blur h-8 w-full font-semibold inline-flex items-center justify-center gap-2 mt-2 mb-4">
+                                <p className="border border-white/15 rounded-md bg-white/10 backdrop-blur h-8 w-full font-semibold inline-flex items-center hover:bg-white/70 justify-center gap-2 mt-2 mb-4">
                                     Otevřít
                                 </p>
                             </a>
