@@ -22,7 +22,7 @@ const MainPage = () => {
       </div>
 
       <div className="max-w-lg mx-auto">
-        <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide text-[#29648A]">Alex Pokorný <br /> FrontEnd Vývojář</h1>
+        <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide">Alex Pokorný <br /> FrontEnd Vývojář</h1>
       </div>
 
       <div className="max-w-lg mx-auto">
@@ -49,7 +49,7 @@ const MainPage = () => {
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
-          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide text-[#29648A]">TechStack</h1>
+          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide">TechStack</h1>
           <p className="text-center text-medium text-white/70 text-[20px] md:text-[27px] tracking-wide">Seznam Technologií, které používám.</p>
     </div>
 
@@ -64,7 +64,7 @@ const MainPage = () => {
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
-          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide text-[#29648A]">Portfolio</h1>
+          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide">Portfolio</h1>
           <p className="text-center text-medium text-white/70 text-[20px] md:text-[27px] tracking-wide">Projekty které jsem vytvořil.</p>
     </div>
 
@@ -79,7 +79,7 @@ const MainPage = () => {
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
-          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide text-[#29648A]">Github</h1>
+          <h1 className="text-center font-bold text-3xl md:text-5xl mt-8 tracking-wide">Github</h1>
           <p className="text-center text-medium text-white/70 text-[20px] md:text-[27px] tracking-wide">Repositories na mém github profilu.</p>
     </div>
 
