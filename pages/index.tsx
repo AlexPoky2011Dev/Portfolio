@@ -14,7 +14,7 @@ const MainPage = () => {
       <title>Alex Pokorný - FrontEnd Vývojář</title>
   </Head>
 
-<section className="min-h-screen bg-gray-900 text-white flex justify-center items-center mx-auto">
+<section className="min-h-screen bg-[#222629] text-white flex justify-center items-center mx-auto">
      <div className="container py-32 md:py-48">
 
       <div className="flex flex-col items-center">
@@ -45,7 +45,7 @@ const MainPage = () => {
 
 
 
-<section id="techstack" className="min-h-screen bg-gray-900 text-white flex justify-center items-center mx-auto">
+<section id="techstack" className="min-h-screen bg-[#222629] text-white flex justify-center items-center mx-auto">
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
@@ -60,7 +60,7 @@ const MainPage = () => {
 
 
 
-<section id="portfolio" className="min-h-screen bg-gray-900 text-white flex justify-center items-center mx-auto">
+<section id="portfolio" className="min-h-screen bg-[#222629] text-white flex justify-center items-center mx-auto">
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
@@ -75,7 +75,7 @@ const MainPage = () => {
 
 
 
-<section id="github" className="min-h-[90vh] bg-gray-900 text-white flex justify-center items-center mx-auto">
+<section id="github" className="min-h-[90vh] bg-[#222629] text-white flex justify-center items-center mx-auto">
   <div className="container py-32 md:py-48">
 
     <div className="max-w-lg mx-auto">
