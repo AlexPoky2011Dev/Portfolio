@@ -26,7 +26,6 @@ const TechStack = () => {
                 <div className="hover:bg-white/25 project w-[350px] bg-white/10 border border-white/15 rounded-lg p-4 shadow-lg text-center" data-aos="fade-up">
                     <h2 className="text-lg font-bold text-white">Ostatní</h2>
                     <h4>Java</h4>
-                    <h4>C++ (Učím se)</h4>
                 </div>
             </div>
         </div>
